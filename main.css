@@ -1,0 +1,23 @@
+body{
+  margin:40px auto;
+  max-width:800px;
+  line-height:1.6;
+  font-family: "Open Sans", Arial;
+  font-size:18px;
+  color:#444;
+  padding:0 10px;
+}
+
+h1,h2,h3{
+  line-height:1.2;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+table.centered {
+  margin-left:auto;
+  margin-right:auto;
+}
